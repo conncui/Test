@@ -1,0 +1,25 @@
+{
+    "data": {
+      "growthRelationshipsConnectionsByCriteria": {
+        "paging": {
+          "count": 1,
+          "total": 10
+        },
+        "elements": [
+          {
+            "createdAt": 0,
+            "connectedMember": {
+              "trackingMemberId": 482645335,
+              "summary": null,
+              "firstName": "cx",
+              "lastName": "g",
+              "entityUrn": "urn:li:ks_profile:dddd",
+              "maidenName": null,
+              "headline": null
+            },
+            "entityUrn": "urn:li:ks_connection:(dddd-dddd,dddd)"
+          }
+        ]
+      }
+    }
+  }
